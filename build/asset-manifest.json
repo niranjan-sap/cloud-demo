@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cloud-simulator/static/css/main.9dcd048c.css",
+    "main.js": "/cloud-simulator/static/js/main.621ad69e.js",
+    "static/js/453.d4e3790d.chunk.js": "/cloud-simulator/static/js/453.d4e3790d.chunk.js",
+    "index.html": "/cloud-simulator/index.html",
+    "main.9dcd048c.css.map": "/cloud-simulator/static/css/main.9dcd048c.css.map",
+    "main.621ad69e.js.map": "/cloud-simulator/static/js/main.621ad69e.js.map",
+    "453.d4e3790d.chunk.js.map": "/cloud-simulator/static/js/453.d4e3790d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dcd048c.css",
+    "static/js/main.621ad69e.js"
+  ]
+}
